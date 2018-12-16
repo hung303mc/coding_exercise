@@ -15,7 +15,7 @@ Data structures
 
 ### Linked lists
 
-- [ ] List class (linked_list.cpp) - 1
+- [x] List class (linked_list.cpp) - 1
 - [ ] Remove duplicates (linked_list_algos.cpp)
 - [ ] Find nth last element (linked_list_algos.cpp)
 - [ ] Remove node given only its object (linked_list_algos.cpp)
@@ -49,9 +49,9 @@ Data structures
 
 ### Stacks and queues
 
-- [ ] Queue class (queue.cpp)
+- [x] Queue class (queue.cpp)
 - [ ] Heap priority queue (priority_queue.cpp) - 1
-- [ ] Stack class (stack.cpp)
+- [x] Stack class (stack.cpp)
 - [ ] Stack that finds min in O(1) (min_stack.cpp)
 - [ ] Solve Hanoi towers using stacks (stack_algos.cpp)
 - [ ] Sort stack using only push, pop, peek and empty (stack_algos.cpp)
